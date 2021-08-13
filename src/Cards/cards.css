@@ -1,0 +1,20 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    height: 300px;
+    width: 300px;
+    margin: 0 auto;
+}
+.title {
+    text-align: left;
+}
+.body {
+    text-align: left;
+}
+
+h4 {
+    text-align: center;
+    margin-top: 10px
+}
+p {
+    padding: 0 20px;
+}
